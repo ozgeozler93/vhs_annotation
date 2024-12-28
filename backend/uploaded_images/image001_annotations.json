@@ -1,0 +1,14 @@
+{
+    "image_id": "image001",
+    "vhs_value": 10.2,
+    "long_axis": 171.96511274092776,
+    "short_axis": 174.59095051004218,
+    "measurement_points": {
+        "x": "y"
+    },
+    "metadata": {
+        "breed": "k\u00f6pek",
+        "position": "lateral",
+        "image_quality": "good"
+    }
+}
